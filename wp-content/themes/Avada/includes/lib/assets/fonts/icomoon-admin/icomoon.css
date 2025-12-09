@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'icomoon';
   src:
-    url('/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/fonts/icomoon.ttf?xkndjc') format('truetype'),
-    url('/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/fonts/icomoon.woff?xkndjc') format('woff'),
-    url('/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/fonts/icomoon.svg?xkndjc#icomoon') format('svg');
+    url('/salsila/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/fonts/icomoon.ttf?xkndjc') format('truetype'),
+    url('/salsila/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/fonts/icomoon.woff?xkndjc') format('woff'),
+    url('/salsila/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/fonts/icomoon.svg?xkndjc#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;

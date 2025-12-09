@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://salsila.maranaw.com/sitemap_index.xml
+Sitemap: /salsila/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

@@ -1653,7 +1653,7 @@
   transform: translateX(-50%);
 }
 .awb-setup-wizard-section.finished .awb-setup-wizard-hero {
-  background-image: url("/wp-content/themes/Avada/assets/admin/images/setup-wizard/congrats-bg.png");
+  background-image: url("/salsila/wp-content/themes/Avada/assets/admin/images/setup-wizard/congrats-bg.png");
   background-position: bottom center;
   background-size: cover;
 }
